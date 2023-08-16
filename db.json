@@ -1,106 +1,142 @@
 {
-    "province1": [{
-        id: "1",
-        text: "Bali"
-    }, {
-        id: "2",
-        text: "Bangka Belitung"
-    }, {
-        id: "3",
-        text: "Banten"
-    }, {
-        id: "4",
-        text: "Bengkulu"
-    }, {
-        id: "5",
-        text: "DI Yogyakarta"
-    }, {
-        id: "6",
-        text: "DKI Jakarta"
-    }, {
-        id: "7",
-        text: "Gorontalo"
-    }, {
-        id: "8",
-        text: "Jambi"
-    }, {
-        id: "9",
-        text: "Jawa Barat"
-    }, {
-        id: "10",
-        text: "Jawa Tengah"
-    }, {
-        id: "11",
-        text: "Jawa Timur"
-    }, {
-        id: "12",
-        text: "Kalimantan Barat"
-    }, {
-        id: "13",
-        text: "Kalimantan Selatan"
-    }, {
-        id: "14",
-        text: "Kalimantan Tengah"
-    }, {
-        id: "15",
-        text: "Kalimantan Timur"
-    }, {
-        id: "16",
-        text: "Kalimantan Utara"
-    }, {
-        id: "17",
-        text: "Kepulauan Riau"
-    }],
-    "province2": [{
-        id: "18",
-        text: "Lampung"
-    }, {
-        id: "19",
-        text: "Maluku"
-    }, {
-        id: "20",
-        text: "Maluku Utara"
-    }, {
-        id: "21",
-        text: "Nanggroe Aceh Darussalam"
-    }, {
-        id: "22",
-        text: "Nusa Tenggara Barat"
-    }, {
-        id: "23",
-        text: "Nusa Tenggara Timur"
-    }, {
-        id: "24",
-        text: "Papua"
-    }, {
-        id: "25",
-        text: "Papua Barat"
-    }, {
-        id: "26",
-        text: "Riau"
-    }, {
-        id: "27",
-        text: "Sulawesi Barat"
-    }, {
-        id: "28",
-        text: "Sulawesi Selatan"
-    }, {
-        id: "29",
-        text: "Sulawesi Tengah"
-    }, {
-        id: "30",
-        text: "Sulawesi Tenggara"
-    }, {
-        id: "31",
-        text: "Sulawesi Utara"
-    }, {
-        id: "32",
-        text: "Sumatera Barat"
-    }, {
-        id: "33",
-        text: "Sumatera Selatan"
-    }, {
-        id: "34",
-        text: "Sumatera Utara"
-    }]
+  "province1": [
+    {
+      "id": "1",
+      "text": "Bali"
+    },
+    {
+      "id": "2",
+      "text": "Bangka Belitung"
+    },
+    {
+      "id": "3",
+      "text": "Banten"
+    },
+    {
+      "id": "4",
+      "text": "Bengkulu"
+    },
+    {
+      "id": "5",
+      "text": "DI Yogyakarta"
+    },
+    {
+      "id": "6",
+      "text": "DKI Jakarta"
+    },
+    {
+      "id": "7",
+      "text": "Gorontalo"
+    },
+    {
+      "id": "8",
+      "text": "Jambi"
+    },
+    {
+      "id": "9",
+      "text": "Jawa Barat"
+    },
+    {
+      "id": "10",
+      "text": "Jawa Tengah"
+    },
+    {
+      "id": "11",
+      "text": "Jawa Timur"
+    },
+    {
+      "id": "12",
+      "text": "Kalimantan Barat"
+    },
+    {
+      "id": "13",
+      "text": "Kalimantan Selatan"
+    },
+    {
+      "id": "14",
+      "text": "Kalimantan Tengah"
+    },
+    {
+      "id": "15",
+      "text": "Kalimantan Timur"
+    },
+    {
+      "id": "16",
+      "text": "Kalimantan Utara"
+    },
+    {
+      "id": "17",
+      "text": "Kepulauan Riau"
+    }
+  ],
+  "province2": [
+    {
+      "id": "18",
+      "text": "Lampung"
+    },
+    {
+      "id": "19",
+      "text": "Maluku"
+    },
+    {
+      "id": "20",
+      "text": "Maluku Utara"
+    },
+    {
+      "id": "21",
+      "text": "Nanggroe Aceh Darussalam"
+    },
+    {
+      "id": "22",
+      "text": "Nusa Tenggara Barat"
+    },
+    {
+      "id": "23",
+      "text": "Nusa Tenggara Timur"
+    },
+    {
+      "id": "24",
+      "text": "Papua"
+    },
+    {
+      "id": "25",
+      "text": "Papua Barat"
+    },
+    {
+      "id": "26",
+      "text": "Riau"
+    },
+    {
+      "id": "27",
+      "text": "Sulawesi Barat"
+    },
+    {
+      "id": "28",
+      "text": "Sulawesi Selatan"
+    },
+    {
+      "id": "29",
+      "text": "Sulawesi Tengah"
+    },
+    {
+      "id": "30",
+      "text": "Sulawesi Tenggara"
+    },
+    {
+      "id": "31",
+      "text": "Sulawesi Utara"
+    },
+    {
+      "id": "32",
+      "text": "Sumatera Barat"
+    },
+    {
+      "id": "33",
+      "text": "Sumatera Selatan"
+    },
+    {
+      "id": "34",
+      "text": "Sumatera Utara"
+    }
+  ]
 }
