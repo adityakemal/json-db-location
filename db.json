@@ -1,5 +1,5 @@
 {
-    province_one: [{
+    "province1": [{
         id: "1",
         text: "Bali"
     }, {
@@ -51,7 +51,7 @@
         id: "17",
         text: "Kepulauan Riau"
     }],
-    province_two: [{
+    "province2": [{
         id: "18",
         text: "Lampung"
     }, {
